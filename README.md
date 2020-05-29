@@ -6,3 +6,6 @@ Learning Python
   - string.count('what_to_count)
 - len: length of a string
   - len(string)
+
+## May 28th 2020 ##
+- write_here
