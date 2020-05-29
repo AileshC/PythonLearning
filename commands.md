@@ -11,7 +11,7 @@
 - $ sudo >> gain access to root/master user
 - $ cat <file_name> >> read file content on command prompt
 - $ history >> see command history
-  
+- $ cd.. >> go back to original place
   
   
   
