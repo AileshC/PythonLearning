@@ -11,8 +11,10 @@
 - $ sudo >> gain access to root/master user
 - $ cat <file_name> >> read file content on command prompt
 - $ history >> see command history
-- $ cd.. >> go back to original place
-  
+- $ cd.. >> go 1 level back in directory order
+- $ cd ~ >> go back to home working folder
+l
+l
   
   
   
