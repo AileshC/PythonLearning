@@ -1,5 +1,5 @@
 # PythonLearning
-Learning Python
+- [Learning Python](https://github.com/AileshC/PythonLearning/blob/master/Learning.md)
 
 ## May 29th 2020 ##
 - count: count a pattenr in string
