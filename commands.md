@@ -18,8 +18,11 @@
 - $ mv <file_name> <new_path_to_location> >> move file to new directory
 - $ mv <path_to_file_name> <path_to_new_file_name> >> rename a file
 - $ rmdir <directory_name> >> delete folder/ Directory
-  
-  
+- $ top >> see all active proccecers in computer
+- $ clear >> clear all previous terminal data
+- $ help <command_name> >> shows how command works
+- $ whatis <command_name> >> shows one line descriptin of command
+- $ exit >> exit terminal
  
  
  
