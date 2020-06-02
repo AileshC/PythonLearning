@@ -1,6 +1,6 @@
 # PythonLearning
 - [Learning Python](https://github.com/AileshC/PythonLearning/blob/master/Learning.md)
-
+- [Vi editor commands](https://github.com/AileshC/PythonLearning/blob/master/Vi_Editor_Commands.md)
 ## May 29th 2020 ##
 - count: count a pattenr in string
   - string.count('what_to_count)
