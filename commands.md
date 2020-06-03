@@ -23,6 +23,7 @@
 - $ help <command_name> >> shows how command works
 - $ whatis <command_name> >> shows one line descriptin of command
 - $ exit >> exit terminal
+- $ ctrl-c >> stop any running command
  
  
  
