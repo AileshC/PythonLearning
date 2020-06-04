@@ -23,5 +23,6 @@ print(place_up)
 # Print out the number of o's in place
 print(place_up.count("O"))
 ```
-## May 28th 2020 ##
-- write_here
+## June 4th 2020 ##
+- list >> collection of values >> x=[1,2,3]
+- numpy >> a package that can make it so that you can use multiple arrays >> np_x= np.array(x)
