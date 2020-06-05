@@ -3,3 +3,7 @@
 ## Terminal Commands
 - [Vi editor commands](https://github.com/AileshC/PythonLearning/blob/master/Vi_Editor_Commands.md)
 - [commands](https://github.com/AileshC/PythonLearning/blob/master/commands.md)
+
+## Packages
+- [packages](https://github.com/AileshC/PythonLearning/blob/master/Packages.md)
+- [brew](https://github.com/AileshC/PythonLearning/blob/master/Brew.md)
