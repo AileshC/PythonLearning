@@ -26,3 +26,7 @@ print(place_up.count("O"))
 ## June 4th 2020 ##
 - list >> collection of values >> x=[1,2,3]
 - numpy >> a package that can make it so that you can use multiple arrays >> np_x= np.array(x)
+
+## June 11th 2020 ##
+<5:30>
+-learned how to make histograms<plt.hist(x,y)>, scatter plots<(plt.scatter(x,y)> and Line plots<plt.plot(x,y)>
