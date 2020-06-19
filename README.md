@@ -7,3 +7,4 @@
 ## Packages
 - [packages](https://github.com/AileshC/PythonLearning/blob/master/Packages.md)
 - [brew](https://github.com/AileshC/PythonLearning/blob/master/Brew.md)
+- [Pandas](https://github.com/AileshC/PythonLearning/blob/master/Pandas.md)
