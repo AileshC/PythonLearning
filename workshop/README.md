@@ -44,4 +44,8 @@
     stringLength=len(input_string)
     reverseString=input_string[stringLength::-1]
     return reverseString
+    
+user_string = input("Please enter your string")
+print("The user string length is ", len(user_string))
+print("The reverse of the given string is ", reverse_a_string(user_string))'    
  ```
