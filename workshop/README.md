@@ -37,4 +37,11 @@
 
 -4. Write each word in reverse string (pig-lattin) mode in the string
  
+ Solution:
  
+ ```
+ def reverse_a_string(input_string):
+    stringLength=len(input_string)
+    reverseString=input_string[stringLength::-1]
+    return reverseString
+ ```
