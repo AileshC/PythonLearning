@@ -30,10 +30,10 @@
 
 -3. Write the string in the reverse from end to top
  
--str = x 
--stringlength=len(str)
--ReverseString=str[stringlength::-1]
--print (slicedString)
+- str = x 
+- stringlength=len(str)
+- ReverseString=str[stringlength::-1]
+- print (slicedString)
 
 -4. Write each word in reverse string (pig-lattin) mode in the string
  
