@@ -33,7 +33,7 @@
 - str = x 
 - stringlength=len(str)
 - ReverseString=str[stringlength::-1]
-- print (slicedString)
+- print (ReverseString)
 
 -4. Write each word in reverse string (pig-lattin) mode in the string
  
