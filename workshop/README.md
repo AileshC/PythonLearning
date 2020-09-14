@@ -46,6 +46,5 @@ print("The user string length is ", len(user_string))
 print("The reverse of the given string is ", reverse_a_string(user_string))
 print(" the number or vowles is", check_Vow(user_string, "AaEeIiOoUu"))
 print(" the number or vowles is", check_Con(user_string, "QqWwRrTtYyIiPpSsDdFfGgHhJjKkLlZzXxCcVvBbNnMm"))
-print("The reverse of every word in the string is ", pig_Latin(user_string))
 pig_Latin(user_string)
  ```
