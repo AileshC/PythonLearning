@@ -1,8 +1,6 @@
 
 ## Python Problems ##
 
-
--1. Create a python problem to perform the following:
 - If X is a string:
 -1. Please collect the full length of string
 
@@ -19,8 +17,27 @@
     stringLength=len(input_string)
     reverseString=input_string[stringLength::-1]
     return reverseString
+ 
+ def check_Vow(string, vowels): 
+    final = [each for each in string if each in vowels] 
+    return (len(final)) 
+    return (final) 
+       
+string = user_string 
+vowels = "AaEeIiOoUu"
+
+def check_Con(string, vowels): 
+    final1 = [each for each in string1 if each in Consonants] 
+    return (len(final1)) 
+    return (final1) 
     
+string1 = user_string
+Consonants = "QqWwRrTtYyPpSsDdFfGgHhJjKkLlZzXxCcVvBbNnMm"
+
 user_string = input("Please enter your string")
 print("The user string length is ", len(user_string))
-print("The reverse of the given string is ", reverse_a_string(user_string))'    
+print("The reverse of the given string is ", reverse_a_string(user_string))
+print(" the number or vowles is", check_Vow(user_string, "AaEeIiOoUu"))
+print(" the number or vowles is", check_Con(user_string, "QqWwRrTtYyIiPpSsDdFfGgHhJjKkLlZzXxCcVvBbNnMm"))
+print("The reverse of every word in the string is ", pig_Latin(user_string))
  ```
