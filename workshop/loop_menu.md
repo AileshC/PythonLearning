@@ -1,5 +1,6 @@
 ## Create a problem with the following menu and full working code ##
 
+```
 --------- MENU ---------
 : 1:   Add
 : 2:   Substract
@@ -18,3 +19,4 @@ What is your choice:
 Please enter first number:
 Please enter second number:
 --------------------------
+```
