@@ -19,4 +19,7 @@ What is your choice:
 Please enter first number:
 Please enter second number:
 --------------------------
+The answer is: 
+--------------------------
+Do you want to continue(Yes) or exit(No/Exit)?
 ```
