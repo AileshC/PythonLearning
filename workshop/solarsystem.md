@@ -8,4 +8,7 @@
 | 4. Find how long does it take to reach light to specific planet.   |
 | 0: Exit                                                            |
 ----------------------------- Thank you ------------------------------    
+
+Select our choice > 
+
 ```
